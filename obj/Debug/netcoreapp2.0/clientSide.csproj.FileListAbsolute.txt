@@ -1,0 +1,10 @@
+C:\Dev\AspCoreNaRaca\clientSide\bin\Debug\netcoreapp2.0\clientSide.deps.json
+C:\Dev\AspCoreNaRaca\clientSide\bin\Debug\netcoreapp2.0\clientSide.runtimeconfig.json
+C:\Dev\AspCoreNaRaca\clientSide\bin\Debug\netcoreapp2.0\clientSide.runtimeconfig.dev.json
+C:\Dev\AspCoreNaRaca\clientSide\bin\Debug\netcoreapp2.0\clientSide.dll
+C:\Dev\AspCoreNaRaca\clientSide\bin\Debug\netcoreapp2.0\clientSide.pdb
+C:\Dev\AspCoreNaRaca\clientSide\obj\Debug\netcoreapp2.0\clientSide.csproj.CoreCompileInputs.cache
+C:\Dev\AspCoreNaRaca\clientSide\obj\Debug\netcoreapp2.0\clientSide.AssemblyInfoInputs.cache
+C:\Dev\AspCoreNaRaca\clientSide\obj\Debug\netcoreapp2.0\clientSide.AssemblyInfo.cs
+C:\Dev\AspCoreNaRaca\clientSide\obj\Debug\netcoreapp2.0\clientSide.dll
+C:\Dev\AspCoreNaRaca\clientSide\obj\Debug\netcoreapp2.0\clientSide.pdb
